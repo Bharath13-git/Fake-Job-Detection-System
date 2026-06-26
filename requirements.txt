@@ -1,0 +1,25 @@
+flask
+gunicorn
+
+# OCR
+pytesseract
+opencv-python-headless
+Pillow
+
+# ML
+numpy
+scikit-learn
+xgboost
+joblib
+
+# NLP / preprocessing
+emoji
+nltk
+
+# PDF
+pdfplumber
+PyPDF2
+
+# embeddings (used in your code)
+#transformers
+#torch
